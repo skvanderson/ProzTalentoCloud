@@ -1,10 +1,10 @@
 produtos = [
-    {"Nome do Produto": "Monitor","preco": 3.050},
-    {"Nome do Produto": "Fone de Ouvido", "preco": 8.00},
-    {"Nome do Produto": "Carregador", "preco": 15.00},
-    {"Nome do Produto": "Notebook", "preco": 3000.0},
-    {"Nome do Produto": "Placa Mãe", "preco": 85.00},
-    {"Nome do Produto": "Produto F" ,"preco": 130.00}
+    {"nome": "Monitor","preco": 3.050},
+    {"nome": "Fone de Ouvido", "preco": 8.00},
+    {"nome": "Carregador", "preco": 15.00},
+    {"nome": "Notebook", "preco": 3000.0},
+    {"nome": "Placa Mãe", "preco": 85.00},
+    {"nome": "Produto F" ,"preco": 130.00}
 ]
 
 def Classificacao(preco):
@@ -26,7 +26,7 @@ def MostrarProdutos(lista_produtos):
         nome = produto["nome"]
         preco = produto["preco"]
         categoria = produto["categoria"]
-        print(f"Nome: {nome}, Preço: R${preco:.2f}, Categoria: {categoria}")
+        print(f"Nome do Produto {nome}, Preço Sugerido R${preco:.2f}, Categoria Atual {categoria}")
 
 processamento(produtos)
 MostrarProdutos(produtos)
