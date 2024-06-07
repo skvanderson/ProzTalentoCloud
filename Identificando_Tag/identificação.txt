@@ -1,0 +1,26 @@
+Conforme os recursos apresentados, segue associação de todas as Tag da página relacionadas
+
+Referente a 1ª Imagem https://prozedu-my.sharepoint.com/:i:/g/personal/administrador_joystreet_prozeducacao_com_br/ESbVCARsk4VZKhkjNtrAh28BussJwDff9kn7hN2sX0F2tQ?e=u2CcPg
+
+1 --> Header: vai representa o cabeçalho da página, geralmente contém logotipo, navegação e outros elementos de cabeçalho.
+2 --> Nav: é usado para definir uma seção de navegação, que geralmente contém uma lista de links de navegação.
+3 --> Main: Define o conteúdo principal do documento, que é diretamente relevante ou expansivo ao tópico do documento.
+4 --> Footer: Representa o rodapé da página, contendo informações como contato, direitos autorais e links para termos de serviço.
+5 --> H1: O título principal da página, geralmente o mais importante e o primeiro nível de cabeçalho.
+6 --> P: Define um parágrafo de texto.
+7 --> Img: Tag usada para incorporar uma imagem na página. 
+
+Referente a 2ª Imagem: https://prozedu-my.sharepoint.com/personal/administrador_joystreet_prozeducacao_com_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam%2FIlustra%C3%A7%C3%A3o%5F02%5FCodePark01%2Epng&parent=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam&ga=1
+
+8 --> Ul: Define uma lista não ordenada.
+9 --> Li: Define um item da lista.
+10 --> A: Define um hiperlink.
+11 --> Footer: Representa o rodapé da página, similar ao item 4.
+
+Referente a 3ª Imagem: https://prozedu-my.sharepoint.com/personal/administrador_joystreet_prozeducacao_com_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam%2FIlustra%C3%A7%C3%A3o%5F03%5FCodePark01%2Epng&parent=%2Fpersonal%2Fadministrador%5Fjoystreet%5Fprozeducacao%5Fcom%5Fbr%2FDocuments%2FDrive%20compartilhado%20%2D%20Editoria%2F%2B%20Projetos%2FEB%20Capital%20%2D%20Proz%2FEscola%20de%20Programa%C3%A7%C3%A3o%2FHtml%5FCSS%20Sass%2FPeer%20Tutoring%5FTarefa%2FNovoPeer%5FPam&ga=1
+
+12 -->Label: Define um rótulo para um elemento de entrada de formulário.
+13 -->Input: Campo de entrada de texto para o usuário inserir dados.
+14 -->Select: Caixa de seleção com opções em um menu suspenso.
+15 -->Button: Botão que o usuário pode clicar para realizar uma ação.
+16 -->Form: Define um formulário HTML para coleta de dados do usuário.
